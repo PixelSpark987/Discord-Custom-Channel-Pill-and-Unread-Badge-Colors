@@ -4,6 +4,8 @@
 // @version      1.2
 // @description  Fixes Discord channel pills and unread badges that are broken by Dark Reader
 // @author       PixelSpark987 - https://is.gd/PS987
+// @downloadURL  https://raw.githubusercontent.com/PixelSpark987/Discord-Custom-Channel-Pill-and-Unread-Badge-Colors/refs/heads/main/Discord%20-%20Custom%20Channel%20Pill%20and%20Unread%20Badge%20Colors.js
+// @updateURL    https://raw.githubusercontent.com/PixelSpark987/Discord-Custom-Channel-Pill-and-Unread-Badge-Colors/refs/heads/main/Discord%20-%20Custom%20Channel%20Pill%20and%20Unread%20Badge%20Colors.js
 // @match        https://discord.com/*
 // @grant        none
 // @run-at       document-end
